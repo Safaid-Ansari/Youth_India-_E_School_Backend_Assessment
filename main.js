@@ -3,7 +3,6 @@ const app = express();
 const dotenv = require("dotenv");
 const mainRoute = require("./routes/index");
 dotenv.config();
-
 const PORT = process.env.PORT || 3000;
 
 // main routes
