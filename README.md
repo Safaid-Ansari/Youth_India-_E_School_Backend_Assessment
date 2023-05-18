@@ -23,7 +23,7 @@
 
 5: Hit this API with get method http://localhost:8000/rest/v1/calendar/redirect?code= paste the code value here which you did copy that value from the browser url 
 
-6: finally you get the google events from this API in the response 
+6: finally you get the google events from this API in the response...
 
 create .env file in the project 
 CLIENT_ID=  Your google clientID 
